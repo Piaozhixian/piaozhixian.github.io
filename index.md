@@ -5,7 +5,9 @@
 - 2017年 DeNA Games Tokyoにエンジニアとして入社（mobageのバックエンド開発）
 - 2019年 DXHUBに入社(MVNO事業システム開発)
 - 2021年 フリーランスエンジニアとして独立
+  
 ---
+
 ## 技術スタック
 - Ruby(Ruby on Rails)
 - Perl(Mobasif)
