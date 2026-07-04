@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.SuikaGameClone" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#F5EDD8</item>
+        <item name="android:windowBackground">#F5EDD8</item>
+    </style>
+</resources>
